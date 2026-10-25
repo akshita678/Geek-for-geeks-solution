@@ -24,7 +24,7 @@ To keep things neat and easy to navigate, the solutions are organized by their d
 
 | Difficulty | Problems Solved | Folder Link |
 | :--- | :---: | :--- |
-| 🟡 Basic | `6` | [Browse](./Basic/) |
+| 🟡 Basic | `7` | [Browse](./Basic/) |
 | 🔴 Medium | `1` | [Browse](./Medium/) |
 | 🔥 Hard | `0` | [Browse](./Hard/) |
 
