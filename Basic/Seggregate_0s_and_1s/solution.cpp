@@ -41,6 +41,10 @@ int main() {
     
     
      solver.segregate0and1(arr);
+  for (int i = 0; i < arr.size(); i++)
+     {
+        cout<<arr[i]<<endl;
+     }   // to finally print result 
 
     
     return 0;
